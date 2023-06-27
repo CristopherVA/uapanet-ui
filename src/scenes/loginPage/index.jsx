@@ -28,7 +28,7 @@ const LoginPage = () => {
         backgroundColor={theme.palette.background.alt}
       >
         <Typography display={'flex'} justifyContent={"center"} alignItems={"center"} fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-          <Typography fontSize={20} fontWeight={800} color="#041248">LOGIN</Typography>
+          <Typography fontSize={20} fontWeight={800} color="#041248"></Typography>
         </Typography>
         <Form />
       </Box>
